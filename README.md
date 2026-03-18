@@ -7,7 +7,7 @@ Welcome to my Data Science repository! This project serves as a comprehensive po
 | Folder / File | Description |
 | :--- | :--- |
 | **`Capestone Project`** | The final project involving end-to-end data science methodology: data collection, wrangling, EDA, and predictive modeling. |
-| **`Data Analysis w\Python`** | Focuses on data cleaning, wrangling, and exploratory statistical analysis using Pandas and Numpy. |
+| **`Data analysis with python`** | Focuses on data cleaning, wrangling, and exploratory statistical analysis using Pandas and Numpy. |
 | **`Data Visualization`** | Contains scripts and notebooks for visual storytelling using Matplotlib, Seaborn, and interactive web-app components. |
 | **`Machine Learning w\Python`** | Implementation of machine learning models including Regression, Classification, and Clustering using Scikit-learn. |
 | **`DataScienceEcosystem.ipynb`** | An overview of the data science landscape, including essential libraries, open-source tools, and development environments. |
